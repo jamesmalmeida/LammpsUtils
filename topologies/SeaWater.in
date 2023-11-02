@@ -1,0 +1,18 @@
+8           #FRAGMENTS
+water.top   #FRAG1
+ion-cl.top  #FRAG2
+ion-na.top  #FRAG3
+ion-so4.top #FRAG4
+ion-mg.top  #FRAG5
+ion-ca.top  #FRAG6
+ion-k.top   #FRAG7
+oil.top     #FRAG8
+HT.xyz      #PACKMOL OUTPUT
+WATER 17110
+CL    248
+NA    232
+SO4   14
+MG    15
+CA    4
+K     6
+OIL   2223
